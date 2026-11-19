@@ -7,7 +7,7 @@
 **Register Number:** 1924260231  
 **Degree & Department:** B.Tech Artificial Intelligence and Data Science (AI/DS)  
 **Submission Date:** 2026–2027 Academic Session  
-**GitHub Repository Link:** `https://github.com/Gershon-A/CSA09-1924260231-Assignment4`  
+**GitHub Repository Link:** https://github.com/kingkaster24/JAVA-assignment-4  
 **Document Length:** ~12–15 Academic Page Equivalent (Comprehensive Report)
 
 ---
